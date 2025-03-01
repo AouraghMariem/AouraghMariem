@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer and learner, always eag
 ## My Skills & Technologies
 Here are the main technologies I work with:
 - **Languages**: Python, R, SQL, Java, C, PHP
-- **Web Development**: HTML, CSS, JavaScript, React.js, WordPress
+- **Web Development**: HTML, CSS, JavaScript, WordPress
 - **Data & Analysis**: Pandas, NumPy, Matplotlib
 - **Databases**: MySQL, phpMyAdmin
 - **UI/UX Design**: Interface design with Figma
