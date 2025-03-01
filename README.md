@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate developer and learner, always eager to expand my knowledge and work on new and exciting projects. Here's a little more about me:
 
 ## About Me
-- 💻 I’m a passionate developer and lifelong learner, exploring various areas of software development and data analysis.
+- 💻 I’m a passionate enthusiast, constantly learning and exploring new technologies and fields in the world of programming and development.
 - 🌱 I’m always looking for new challenges and opportunities to expand my skill set.
-- 🔧 I enjoy working on a wide range of projects, from web development to data science, and continuously improving my technical abilities.
+- 🔧 I enjoy tackling diverse projects and continuously enhancing my skills in various areas of technology and programming.
 - 📫 Feel free to reach out to me via aouraghmariem123@gmail.com or connect with me on www.linkedin.com/in/mariemaouragh.
 
 ## My Skills & Technologies
