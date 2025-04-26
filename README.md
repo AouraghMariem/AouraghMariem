@@ -16,5 +16,5 @@ Here are the main technologies I work with:
 - **Databases**: MySQL, phpMyAdmin
 - **UI/UX Design**: Interface design with Figma
 - **Tools & Environments**: Git, Visual Studio Code, Eclipse
-- **Systems**: Basic administration and commands in Linux
+- **Systems and Networks**: Linux (basic commands), knowledge of TCP/IP networking, cybersecurity principles, cryptography
 
