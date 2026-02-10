@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I'm a passionate developer and learner, always eag
 
 ## My Skills & Technologies
 Here are the main technologies I work with:
-- **Languages**: Python, R, SQL, Java, C, PHP
-- **Web Development**: HTML, CSS, JavaScript, WordPress
-- **Data & Analysis**: Pandas, NumPy, Matplotlib
-- **Databases**: MySQL, phpMyAdmin
-- **UI/UX Design**: Interface design with Figma
-- **Tools & Environments**: Git, Visual Studio Code, Eclipse
-- **Systems and Networks**: Linux (basic commands), knowledge of TCP/IP networking, cybersecurity principles, cryptography
-
+-Languages & Frameworks: Java (Spring Boot), JavaScript (Node.js, Angular), Python, SQL.
+-Web Development: HTML5, CSS3.
+-DevOps & Virtualization: Docker (Dockerfile), Virtualization, CI/CD Pipelines (GitLab CI, Jenkins).
+-Systems & Networks: Linux (Bash), Windows Server, TCP/IP, Cybersecurity.
+-Data Science: Pandas, NumPy, Matplotlib, Data Preprocessing.
+-Databases: MySQL (MySQL Workbench, Design & Querying).
+-Methodologies: Agile (Scrum), GitLab Issues/Project Management.
+-Design: UI/UX Design with Figma.
